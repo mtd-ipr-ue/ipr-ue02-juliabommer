@@ -14,6 +14,4 @@ public class ue02_3 {
         else{
             Out.println("Your point is NOT in the green field!");
         }
-
-
 }}

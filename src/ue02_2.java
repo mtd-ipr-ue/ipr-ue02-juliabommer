@@ -10,7 +10,6 @@ public class ue02_2 {
         int month = In.readInt();
         int days =0;
         
-
         switch (month) {
             case 1, 3, 5, 7, 8, 10, 12:
                 days = 31;
